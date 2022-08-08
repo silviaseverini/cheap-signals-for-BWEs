@@ -5,8 +5,8 @@ Bilingual Word Embeddings (BWEs) are one of the cornerstones of cross-lingual tr
 
 Repo
 --------
-* Romanization (Uroman+Levenshtein) dictionaries (minimum normalized edit distance 0.8).
-* Identical-pairs dictionaries.
+* Romanizated pairs  (Uroman+Levenshtein) dictionaries (minimum normalized edit distance 0.8).
+* Identical-pairs 
 
 
 Publication
